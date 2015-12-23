@@ -13,7 +13,7 @@
 |Maximum at Sea Level| 180 KTS|
 |Cruise, 75% Power at 8,000 Ft| 171 KTS|
 |     |     |
-|**RANGE** (includes 3 gal. for taxi, takeoff & climb)|     |
+|**RANGE** (incl. 3 gal. for taxi/takeoff/climb)|     |
 |75% @ 8000’, no reserve| 608 NM|
 |55% @ 8000’, no reserve| 765 NM|
 |75% @ 8000’, one hour (10 gal) reserve| 434 NM|
