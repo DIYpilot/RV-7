@@ -1,6 +1,6 @@
 <!--- Adapted from Roberta Ann Hegy's POH for RV-7 N2447A --->
 
-## Specifications 
+# Specifications 
 
 |     |     |
 |-----|----:|
